@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1433679255 source:c:\users\silvia\desktop\matrixproject\matrix1\main.cpp
+	<string>
+	<iostream>
+	<sstream>
+	<math.h>
+	<fstream>
+	"Rational.h"
+	"ComplexNumbers.h"
+	"Matrix.h"
+	"Calculations.h"
+
+1433677450 c:\users\silvia\desktop\matrixproject\matrix1\complexnumbers.h
+	<string>
+	<iostream>
+	<sstream>
+
+1433677712 c:\users\silvia\desktop\matrixproject\matrix1\matrix.h
+
+1432212729 c:\users\silvia\desktop\matrixproject\matrix1\rational.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1433678832 c:\users\silvia\desktop\matrixproject\matrix1\calculations.h
+	"Matrix.h"
+	<iostream>
+
+1433679153 source:c:\users\silvia\desktop\matrixproject\matrix1\menu.cpp
+	<string>
+	<iostream>
+	<sstream>
+	<math.h>
+	<fstream>
+	"Rational.h"
+	"ComplexNumbers.h"
+	"Matrix.h"
+	"Calculations.h"
+
+1432141990 source:c:\users\silvia\desktop\matrixproject\matrix1\functions.cpp
+
+1433679153 c:\users\silvia\desktop\matrixproject\matrix1\menu.cpp
+	<string>
+	<iostream>
+	<sstream>
+	<math.h>
+	<fstream>
+	"Rational.h"
+	"ComplexNumbers.h"
+	"Matrix.h"
+	"Calculations.h"
+
+1432141990 c:\users\silvia\desktop\matrixproject\matrix1\functions.cpp
+
+1433679255 source:f:\1 kurs\нно\matrixproject\matrix1\main.cpp
+	<string>
+	<iostream>
+	<sstream>
+	<math.h>
+	<fstream>
+	"Rational.h"
+	"ComplexNumbers.h"
+	"Matrix.h"
+	"Calculations.h"
+
+1433970435 f:\1 kurs\нно\matrixproject\matrix1\rational.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1433970339 f:\1 kurs\нно\matrixproject\matrix1\complexnumbers.h
+	<string>
+	<iostream>
+	<sstream>
+
+1433970148 f:\1 kurs\нно\matrixproject\matrix1\matrix.h
+
+1433970222 f:\1 kurs\нно\matrixproject\matrix1\calculations.h
+	"Matrix.h"
+	<iostream>
+
